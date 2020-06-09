@@ -7,3 +7,10 @@
     -webkit-box-shadow: 1px 0px 224px -80px rgba(0,0,0,0.42);
     -moz-box-shadow: 1px 0px 224px -80px rgba(0,0,0,0.42);
 }   
+
+@media(max-width: 770px){
+    .formControl{
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+}
